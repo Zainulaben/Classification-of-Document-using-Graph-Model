@@ -1,2 +1,9 @@
 # Classification of Document using Graph Model
- We have to follow some steps like Web Scrapping Data Cleaning & Pre-processing Making Graph Data Visualization Data Classification
+
+## Graph-based methods offer a versatile approach to document classification by representing documents and their relationships as graphs. 
+
+- Document Representation as Graphs
+- Graph Construction
+- Graph Similarity
+- Classification Algorithms
+
